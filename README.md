@@ -1,2 +1,2 @@
 # poisson-regression-goals
-Predicting premier league results using a Poisson regression
+expected goals model using poisson regression
