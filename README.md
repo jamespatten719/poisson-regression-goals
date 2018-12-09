@@ -1,2 +1,2 @@
 # poisson-regression-goals
-expected goals model using poisson regression
+expected goals model using various poisson techniques
